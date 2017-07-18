@@ -1,0 +1,38 @@
+/*TAB DESIGN*/
+body{
+   background-color:#E3F6FB ;
+}
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #E3F6FB ;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: black;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+li a:hover {
+   background-color: lavenderblush ;
+}
+header{
+   text-align:right;
+   float:right;
+   padding:15px;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+
